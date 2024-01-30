@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Image Recognition
 - 💞️ I’m looking to collaborate on projects about ArcGIS and Python
-- 📫 How to reach me: with phone number (+1)2135714231
+- 📫 How to reach me: with phone number (+1)2135714231; email: soniccckun@gmail.com
 - 😄 Pronouns: Sonic
 - ⚡ Fun fact: Game, basketball and soccer lover
 
